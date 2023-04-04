@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisukheja&label=Profile%20views&color=0e75b6&style=flat" alt="jaisukheja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaisukheja" alt="jaisukheja" /></a> </p>
-
 - 🔭 I’m currently working on [Connectify-App](https://github.com/JaiSukheja/Connectify-App)
 
 - 🌱 I’m currently learning **Machine Learning**
