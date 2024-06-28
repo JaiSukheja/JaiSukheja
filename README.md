@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jai Sukheja</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier&size=24&duration=5000&color=0ea5e9&lines=Full+Stack+Developer;Aspiring+Software+Engineer;Passionate+Programmer" alt="Typing SVG" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&height=100&lines=Aspiring+Software+Developer;Passionate+Programmer;Full+Stack+Developer" alt="Typing SVG" align="center">
 </p>
 
 Welcome to my GitHub profile! I am passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. Here are a few things about me:
