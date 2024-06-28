@@ -5,17 +5,15 @@
 
 Welcome to my GitHub profile! I am passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. Here are a few things about me:
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+Welcome to my GitHub profile! I am passionate about crafting efficient and impactful software solutions. Here are a few things about me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisukheja&label=Profile%20views&color=0e75b6&style=flat" alt="jaisukheja" /> </p>
-
-- 🔭 I’m currently working on [Connectify-App](https://github.com/JaiSukheja/Connectify-App)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **React, Node , MongoDB, Express**
-
-- 📫 How to reach me **jaisukheja02@gmail.com**
+- 🔭 I’m currently working on enhancing user experiences through innovative web applications.
+- 🌱 I’m currently learning advanced React and TypeScript.
+- 👯 I’m looking to collaborate on open-source projects that drive social good.
+- 🤔 I’m looking for help with scaling microservices for high-traffic applications.
+- 💬 Ask me about full-stack development, software architecture, and best coding practices.
+- 📫 How to reach me: [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- ⚡ Fun fact: I love solving puzzles and often participate in competitive coding challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
