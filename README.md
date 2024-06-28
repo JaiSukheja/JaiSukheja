@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jai Sukheja</h1>
+# Hello, I'm [Your Name] 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=24&duration=3000&color=FF5733&lines=Full+Stack+Developer;Aspiring+Software+Engineer;Passionate+Programmer)
+
+Welcome to my GitHub profile! I am passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. Here are a few things about me:
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisukheja&label=Profile%20views&color=0e75b6&style=flat" alt="jaisukheja" /> </p>
