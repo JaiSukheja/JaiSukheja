@@ -1,16 +1,14 @@
-<h3 align="center">Hi👋, I'm Jai Sukheja</h3>
+# <h3 align="center">Hi👋, I'm [Jai Sukheja](https://jai-personal-portfolio.vercel.app/)</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=36&pause=500&center=true&vCenter=true&random=false&width=1200&height=50&lines=Aspiring+Software+Developer;Passionate+Programmer;Full+Stack+Developer">
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/jaisukheja02/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/jaisukheja02/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> LeetCode</a></code>
-  <code><a href="https://www.geeksforgeeks.org/user/jaisukheja02/" title="CodeChef Profile"><img width="22" src="images/gfg.png"> GeeksForGeeks</a></code>
-  <code><a href="https://www.hackerrank.com/profile/jaisukheja02" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.codechef.com/users/jai_sukheja" title="CodeChef Profile"><img width="22" src="images/hackerrank.png"> CodeChef</a></code>
-  <code><a href="https://jai-personal-portfolio.vercel.app/" title="Portfolio"><img width="22" src="images/hackerrank.png"> Portfolio</a></code>
+  <code><a href="https://www.linkedin.com/in/jaisukheja02/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/jaisukheja02/" title="Leetcode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> LeetCode</a></code>
+  <code><a href="https://www.geeksforgeeks.org/user/jaisukheja02/" title="CodeChef Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"> GeeksForGeeks</a></code>
+  <code><a href="https://www.hackerrank.com/profile/jaisukheja02" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"> HackerRank</a></code>
+  <code><a href="https://www.codechef.com/users/jai_sukheja" title="CodeChef Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"> CodeChef</a></code>
 </h5>
-<hr>
 
-<h1 align="center">✨ Learn more About Me ✨</h1> 
+# <h1 align="center">✨ Learn more About Me ✨</h1> 
 <i align="center">
 - 🔭 Innovative tech mind with 5 years of experience working as a computer programmer.
 - 🌱 Capable of working with a variety of technology and software solutions, and managing databases.
@@ -20,8 +18,8 @@
 - 📚 I like to read about new Innovations in Computer Science and Technology.
 - 💻 I work on hobbies that are based on computers and technology.
 </i>
-<hr>
-<h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
+
+# <h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
@@ -54,27 +52,20 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+# <h1 align="center">⚡ Stats ⚡</h1>
 <p align=center>
   <div align=center>
     <a href="https://github.com/jaisukheja02/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=jaisukheja&theme=react&border=61dafb&hide_border=true" alt="jaisukheja" />
+      <img align="left" src="https://streak-stats.demolab.com/?user=jaisukheja&theme=react&border=61dafb&hide_border=true" alt="jaisukheja" />
     </a>
     <a href="https://github.com/jaisukheja02/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jaisukheja&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaisukheja&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+ <br><br><br><br><br><br><br><br><br>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/jaisukheja02/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisukheja&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
+  <div align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisukheja&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   </div>
-  <br>
-
+<br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaisukheja&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
-
